@@ -1,0 +1,2 @@
+Average of DZ	Average of DY	Average of DX
+6.545586168	14.51205602	15.58935722

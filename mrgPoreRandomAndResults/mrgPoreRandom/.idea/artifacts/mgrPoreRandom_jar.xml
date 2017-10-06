@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mgrPoreRandom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mgrPoreRandom_jar</output-path>
+    <root id="archive" name="mgrPoreRandom.jar">
+      <element id="module-output" name="mgrPoreRandom" />
+    </root>
+  </artifact>
+</component>
