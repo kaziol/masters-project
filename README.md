@@ -4,7 +4,7 @@
 
 Depth First Search, modified Dijkstra algorithm were used for estimating fluid's flow-path through porous media.
 Bezier curve calculation allowed to obtain more natural curvature of generated paths. 
-The above calculations allowed to calculate investigated media tortuous.
+The above calculations allowed to calculate distance traveled by fluid's particle. That allowed to determine investigated media tortuous.
 
 ##	Average pore dimensions
 
