@@ -1,0 +1,1 @@
+java -cp BezierCurvesWithCharts.jar bezier.Main

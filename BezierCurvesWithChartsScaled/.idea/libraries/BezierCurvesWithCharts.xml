@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BezierCurvesWithCharts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BezierCurvesWithCharts_jar/BezierCurvesWithCharts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
